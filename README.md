@@ -8,6 +8,11 @@ This project aims to analyze the key factors influencing loan approval at a fina
 2. **Asset and Ceiling Correlation**: There is a strong correlation (0.86) between the value of luxury assets and the requested loan amount.
 3. **Educational Inclusiveness**: Educational background does not significantly influence approval status compared to credit history.
 
+## 🚀 Model Performance
+- **Algorithm:** Random Forest Classifier
+- **Accuracy:** 98.01%
+- **Key Discovery:** CIBIL Score is the feature that most influences the accuracy of this model.
+  
 ## 🛠️ Technologies Used
 - Python (Pandas, NumPy)
 - Visualization (Matplotlib, Seaborn)
