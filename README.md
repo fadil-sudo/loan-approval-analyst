@@ -1,14 +1,14 @@
 # Loan Approval Analysis - Financial Risk Project
 
-## 📌 Deskripsi Proyek
-Proyek ini bertujuan untuk menganalisis faktor-faktor utama yang mempengaruhi persetujuan pinjaman di sebuah institusi keuangan menggunakan dataset dari Kaggle.
+## 📌 Project Description
+This project aims to analyze the key factors influencing loan approval at a financial institution using a dataset from Kaggle.
 
-## 📊 Temuan Utama (Key Insights)
-1. **CIBIL Score adalah Prediktor Utama**: Nasabah yang disetujui memiliki rata-rata skor 703, sedangkan yang ditolak rata-rata 429.
-2. **Korelasi Aset dan Plafon**: Terdapat korelasi kuat (0.86) antara nilai aset mewah dan jumlah pinjaman yang diminta.
-3. **Inklusivitas Pendidikan**: Latar belakang pendidikan tidak berpengaruh signifikan terhadap status persetujuan dibandingkan riwayat kredit.
+## 📊 Key Insights
+1. **CIBIL Score is a Key Predictor**: Approved customers have an average score of 703, while rejected customers have an average score of 429.
+2. **Asset and Ceiling Correlation**: There is a strong correlation (0.86) between the value of luxury assets and the requested loan amount.
+3. **Educational Inclusiveness**: Educational background does not significantly influence approval status compared to credit history.
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Technologies Used
 - Python (Pandas, NumPy)
 - Visualization (Matplotlib, Seaborn)
 - Jupyter Notebook
